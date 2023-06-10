@@ -1,0 +1,1 @@
+/home/hein/.zinit/omz/themes/xiong-chiamiov-plus.zsh-theme
